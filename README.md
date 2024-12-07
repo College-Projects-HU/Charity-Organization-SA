@@ -3,7 +3,7 @@
 Welcome to **Char-E-T**, the official website for our charity organization! This platform is designed to support and connect charitable initiatives with donors and beneficiaries.  
 
 ## 🔗 Live Website  
-Visit our website: [Char-E-T Website](https://abdunader.github.io/Charity-Organization/)  
+Visit our website: [Char-E-T Website]([https://abdunader.github.io/Charity-Organization/](https://college-projects-hu.github.io/Charity-Organization-SA/))  
 
 ---
 
